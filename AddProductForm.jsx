@@ -63,3 +63,5 @@ function AddProductForm({ addProduct }) {
 }
 
 export default AddProductForm;
+
+// Task 7 
